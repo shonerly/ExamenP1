@@ -1,3 +1,4 @@
+
 /*SELECTORES CLASE Y ID*/
 
 #primero{
@@ -45,3 +46,20 @@ a:hover{
     color: chartreuse;
     background: #000;
 }
+
+/*Pseudo-selector VISITED*/
+
+[href]:vidited{
+    color: blueviolet;
+}
+
+
+
+
+
+
+
+
+
+
+
