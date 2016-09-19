@@ -1,0 +1,13 @@
+*{
+    background: #e3deb7;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+}
+
+
+a[href^="https://"]{
+    color:darkorange;
+}
