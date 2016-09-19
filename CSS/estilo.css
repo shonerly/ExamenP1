@@ -27,4 +27,5 @@ input{
 /*Pseudo-selector FOCUS*/
 input:focus{
     border: 2px solid red;
+    box-shadow: 0 0 2px blue;
 }
