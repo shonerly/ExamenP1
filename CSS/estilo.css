@@ -34,3 +34,14 @@ select:focus{
      border: 2px solid red;
     box-shadow: 0 0 2px blue;
 }
+
+/*Pseudo-selector LINK*/
+a:link{
+    color: darkgreen;
+}
+
+/*Pseudo-selector HOVER*/
+a:hover{
+    color: chartreuse;
+    background: #000;
+}
