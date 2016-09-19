@@ -1,3 +1,5 @@
+/*SELECTORES CLASE Y ID*/
+
 #primero{
     color: blueviolet;
 }
@@ -12,4 +14,17 @@
 
 .cuarto{
     color: darkgoldenrod;
+}
+
+/*PSEUDO-SELECTORES*/
+
+input{
+    display: block;
+    margin: 2px;
+    padding: 3px;
+}
+
+/*Pseudo-selector FOCUS*/
+input:focus{
+    border: 2px solid red;
 }
